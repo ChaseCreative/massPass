@@ -26,7 +26,7 @@ var answers = ["serBtnA", "serBtnA1", "serBtnB", "serBtnB2", "serBtnC", "serBtnC
 
 
 
-var verbsFirstPerPass = [["amatus", "amata","amatum","amati"," loved"],  ["datus", "data","datum","datae"," given"],["laudatus", "laudata","laudatum","laudati"," praised"],["servatus", "servata","servatum","servatae"," saved"],["vocatus", "vocata","vocatum", "vocati"," called"], ["paratus", "parata", "paratum", "paratae"," preserved"]];
+var verbsFirstPerPass = [["amatus", "amata","amatum","amati"," loved"],  ["datus", "data","datum","datae"," given"],["laudatus", "laudata","laudatum","laudati"," praised"],["servatus", "servata","servatum","servatae"," saved"],["vocatus", "vocata","vocatum", "vocati"," called"], ["paratus", "parata", "paratum", "paratae"," prepared"]];
 
 
 
@@ -406,7 +406,7 @@ function resetVerb(){
 
 
 
-	verbsFirstPerPass = [["amatus", "amata","amatum","amati"," loved"],  ["datus", "data","datum","datae"," given"],["laudatus", "laudata","laudatum","laudati"," praised"],["servatus", "servata","servatum","servatae"," saved"],["vocatus", "vocata","vocatum", "vocati"," called"], ["paratus", "parata", "paratum", "paratae"," preserved"]];
+	verbsFirstPerPass = [["amatus", "amata","amatum","amati"," loved"],  ["datus", "data","datum","datae"," given"],["laudatus", "laudata","laudatum","laudati"," praised"],["servatus", "servata","servatum","servatae"," saved"],["vocatus", "vocata","vocatum", "vocati"," called"], ["paratus", "parata", "paratum", "paratae"," prepared"]];
 
 
 
